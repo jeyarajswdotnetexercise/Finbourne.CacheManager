@@ -20,7 +20,12 @@
       "ProjectGuid": "a2728743-40ab-4a00-971a-6941643e68bb",
       "DisplayName": "Finbourne.CodeExcersise.CacheManager.FunctionalTest",
       "ColorIndex": 2
+    },
+    "eebc35e7-ecfc-4e9a-bc6a-de9a92be4ad2": {
+      "ProjectGuid": "eebc35e7-ecfc-4e9a-bc6a-de9a92be4ad2",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
