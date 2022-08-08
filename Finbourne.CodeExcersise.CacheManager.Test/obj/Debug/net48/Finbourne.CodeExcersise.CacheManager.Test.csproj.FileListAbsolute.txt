@@ -1,0 +1,7 @@
+G:\Project\Dotnet\Source\Dotnet2010\AllConcepts\WebAPI\Finbourne.CodeExcercise\Finbourne.CodeExcersise.CacheManager.Test\bin\Debug\net48\CoverletSourceRootsMapping
+G:\Project\Dotnet\Source\Dotnet2010\AllConcepts\WebAPI\Finbourne.CodeExcercise\Finbourne.CodeExcersise.CacheManager.Test\obj\Debug\net48\Finbourne.CodeExcersise.CacheManager.Test.csproj.AssemblyReference.cache
+G:\Project\Dotnet\Source\Dotnet2010\AllConcepts\WebAPI\Finbourne.CodeExcercise\Finbourne.CodeExcersise.CacheManager.Test\obj\Debug\net48\Finbourne.CodeExcersise.CacheManager.Test.csproj.SuggestedBindingRedirects.cache
+G:\Project\Dotnet\Source\Dotnet2010\AllConcepts\WebAPI\Finbourne.CodeExcercise\Finbourne.CodeExcersise.CacheManager.Test\obj\Debug\net48\Finbourne.CodeExcersise.CacheManager.Test.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\Dotnet\Source\Dotnet2010\AllConcepts\WebAPI\Finbourne.CodeExcercise\Finbourne.CodeExcersise.CacheManager.Test\obj\Debug\net48\Finbourne.CodeExcersise.CacheManager.Test.AssemblyInfoInputs.cache
+G:\Project\Dotnet\Source\Dotnet2010\AllConcepts\WebAPI\Finbourne.CodeExcercise\Finbourne.CodeExcersise.CacheManager.Test\obj\Debug\net48\Finbourne.CodeExcersise.CacheManager.Test.AssemblyInfo.cs
+G:\Project\Dotnet\Source\Dotnet2010\AllConcepts\WebAPI\Finbourne.CodeExcercise\Finbourne.CodeExcersise.CacheManager.Test\obj\Debug\net48\Finbourne.CodeExcersise.CacheManager.Test.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+G:\Project\Dotnet\Source\Dotnet2010\AllConcepts\WebAPI\Finbourne.CodeExcercise\Finbourne.CodeExcersise.CacheManager\obj\Debug\net48\Finbourne.CodeExcersise.CacheManager.csproj.AssemblyReference.cache
+G:\Project\Dotnet\Source\Dotnet2010\AllConcepts\WebAPI\Finbourne.CodeExcercise\Finbourne.CodeExcersise.CacheManager\obj\Debug\net48\Finbourne.CodeExcersise.CacheManager.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\Dotnet\Source\Dotnet2010\AllConcepts\WebAPI\Finbourne.CodeExcercise\Finbourne.CodeExcersise.CacheManager\obj\Debug\net48\Finbourne.CodeExcersise.CacheManager.AssemblyInfoInputs.cache
+G:\Project\Dotnet\Source\Dotnet2010\AllConcepts\WebAPI\Finbourne.CodeExcercise\Finbourne.CodeExcersise.CacheManager\obj\Debug\net48\Finbourne.CodeExcersise.CacheManager.AssemblyInfo.cs
+G:\Project\Dotnet\Source\Dotnet2010\AllConcepts\WebAPI\Finbourne.CodeExcercise\Finbourne.CodeExcersise.CacheManager\obj\Debug\net48\Finbourne.CodeExcersise.CacheManager.csproj.CoreCompileInputs.cache

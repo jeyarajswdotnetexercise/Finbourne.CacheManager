@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8454132b-4ee8-4364-8168-53fdfb178509": {
+      "ProjectGuid": "8454132b-4ee8-4364-8168-53fdfb178509",
+      "DisplayName": "Finbourne.CodeExcersise.CacheAPI",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0eaa699a-77ea-41c8-b3aa-608534ef8500": {
+      "ProjectGuid": "0eaa699a-77ea-41c8-b3aa-608534ef8500",
+      "DisplayName": "Finbourne.CodeExcersise.CacheManager",
+      "ColorIndex": 1
+    },
+    "a2728743-40ab-4a00-971a-6941643e68bb": {
+      "ProjectGuid": "a2728743-40ab-4a00-971a-6941643e68bb",
+      "DisplayName": "Finbourne.CodeExcersise.CacheManager.FunctionalTest",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
